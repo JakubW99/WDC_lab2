@@ -1,0 +1,14 @@
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\bin\Debug\net8.0\WDC_lab2.exe
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\bin\Debug\net8.0\WDC_lab2.deps.json
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\bin\Debug\net8.0\WDC_lab2.runtimeconfig.json
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\bin\Debug\net8.0\WDC_lab2.dll
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\bin\Debug\net8.0\WDC_lab2.pdb
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.dll
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\refint\WDC_lab2.dll
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.pdb
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\WDC_lab2.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Pulpit\WDC_lab2\obj\Debug\net8.0\ref\WDC_lab2.dll
