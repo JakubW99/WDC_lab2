@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jakub\\.nuget\\packages\\": {}
+    "/Users/jakubwojcikiewicz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\OneDrive\\Pulpit\\WDC_lab2\\WDC_lab2.csproj",
+      "projectUniqueName": "/Users/jakubwojcikiewicz/Documents/GitHub/WDC_lab2/WDC_lab2.csproj",
       "projectName": "WDC_lab2",
-      "projectPath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\WDC_lab2\\WDC_lab2.csproj",
-      "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\WDC_lab2\\obj\\",
+      "projectPath": "/Users/jakubwojcikiewicz/Documents/GitHub/WDC_lab2/WDC_lab2.csproj",
+      "packagesPath": "/Users/jakubwojcikiewicz/.nuget/packages/",
+      "outputPath": "/Users/jakubwojcikiewicz/Documents/GitHub/WDC_lab2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jakubwojcikiewicz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -61,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq48HCVYxCkW/Y+13tkZrohGNtgAcRlO93ypSw5qc2EG7Eg7AK/D/OnfOe5wMWTYrDnSOb0wfRBLhLpg8R9DkA==",
+  "dgSpecHash": "DPxLhAzWE6U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\OneDrive\\Pulpit\\WDC_lab2\\WDC_lab2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jakubwojcikiewicz/Documents/GitHub/WDC_lab2/WDC_lab2.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakubwojcikiewicz/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/Users/jakubwojcikiewicz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "/Users/jakubwojcikiewicz/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.21/microsoft.netcore.app.host.osx-arm64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
